@@ -15,3 +15,19 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
+
+# Conclude
+
+无脑遍历，简单粗暴：
+
+$$
+时间复杂性： O(n^2)
+$$
+
+Hashpmap：
+
+数量级小的情况下看不出优势，而且golang中创建map开销大
+
+$$
+时间复杂度：O(n)
+$$

@@ -36,3 +36,12 @@ func TestAddTwoNumbers(t *testing.T) {
 		must.Equal(v.Expect, actual)
 	}
 }
+
+func BenchmarkAddTwoNumbers(b *testing.B) {
+	NumNode1 := &ListNode{Val: 2, Next: &ListNode{Val: 4, Next: &ListNode{Val: 3}}}
+	NumNode2 := &ListNode{Val: 5, Next: &ListNode{Val: 6, Next: &ListNode{Val: 4}}}
+
+	for i := 0; i < b.N; i++ {
+		addTwoNumbers(NumNode1, NumNode2)
+	}
+}

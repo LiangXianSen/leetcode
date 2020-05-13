@@ -43,3 +43,21 @@ func TestTwoSumWithLoop(t *testing.T) {
 		must.Equal(v.Expect, actual)
 	}
 }
+
+// 数据量小看不出优势，数据量小golang中创建map开销大
+func BenchmarkTwoSum(b *testing.B) {
+	input := []int{2, 7, 11, 15}
+	target := 9
+	for i := 0; i < b.N; i++ {
+		twoSum(input, target)
+	}
+}
+
+// 无脑暴力循环
+func BenchmarkTwoSumWithLoop(b *testing.B) {
+	input := []int{2, 7, 11, 15}
+	target := 9
+	for i := 0; i < b.N; i++ {
+		twoSumWithLoop(input, target)
+	}
+}
