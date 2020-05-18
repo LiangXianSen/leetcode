@@ -20,4 +20,6 @@ I'm doing code challenging with [leetcode](https://leetcode.com/)|[lettcode-cn](
 - [x] [178 Rank Scores](sql/RankScores)
 - [x] [180 Consecutive Numbers](sql/ConsecutiveNumbers)
 - [x] [181 Employees Earning More Than Their Managers](sql/EmployeeEaringMoreThanTheirManagers)
+- [x] [182 Duplicate Emails](sql/DuplicateEmails)
+- [x] [183 Customers Who Never Order](sql/CustomerWhoNeverOrder)
 
