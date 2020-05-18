@@ -1,4 +1,4 @@
-# Rank Scores
+# 178. Rank Scores
 
 https://leetcode.com/problems/rank-scores/
 
@@ -42,9 +42,17 @@ For example, given the above `Scores` table, your query should generate the foll
 
 Approach: SQL `Self Join` (join itself)
 
+Self joins are commonly used in the following areas:
+
+- Hierarchical relationships
+- Sequential relationships
+- Graph data
+
+> [ref] https://learnsql.com/blog/illustrated-guide-sql-self-join/
+
 **Algorithm**
 
-从两张相同的表scores分别命名为s1，s2， 同一个表自己join自己，得到两个表的乘积
+从两张相同的表scores分别命名为s1，s2， 同一个表自己join自己，相同字段相连得到这两个字段的乘积
 
 ```sql
 SELECT 
