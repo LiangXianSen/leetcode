@@ -8,8 +8,9 @@ I'm doing code challenging with [leetcode](https://leetcode.com/)|[lettcode-cn](
 
 **Math**
 
-- [x] [1 Two Sum](algorithm/twosum)
-- [x] [2 Add Two Numbers](algorithm/addtwonumbers)
+- [x] [1 两数之和](algorithm/twosum)
+- [x] [2 两数相加](algorithm/addtwonumbers)
+- [x] [3 无重复字符的最长字串](algorithm/lengthoflongestsubstring)
 
 
 

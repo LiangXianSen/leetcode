@@ -1,6 +1,6 @@
 # 1. Two Sum
 
-https://leetcode.com/problems/two-sum/
+https://leetcode-cn.com/problems/two-sum/
 
 # Description
 
@@ -16,7 +16,7 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-# Conclude
+# Conclusion
 
 无脑遍历，简单粗暴：
 

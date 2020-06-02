@@ -1,6 +1,6 @@
 # 2. Add Two Numbers
 
-https://leetcode.com/problems/add-two-numbers/
+https://leetcode-cn.com/problems/add-two-numbers/
 
 # Description
 
@@ -16,7 +16,7 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 ```
 
-# Conclude
+# Conclusion
 
 1. 通过修改指针实现的嵌套（golang）
 2. 先求和，然后%10求商和余数，最后计算进位
