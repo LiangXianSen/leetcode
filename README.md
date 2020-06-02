@@ -11,6 +11,8 @@ I'm doing code challenging with [leetcode](https://leetcode.com/)|[lettcode-cn](
 - [x] [1 两数之和](algorithm/twosum)
 - [x] [2 两数相加](algorithm/addtwonumbers)
 - [x] [3 无重复字符的最长字串](algorithm/lengthoflongestsubstring)
+- [x] [7 整数反转](algorithm/reverseinteger)
+- [x] [9 回文数](algorithm/palindromenumber)
 
 
 
