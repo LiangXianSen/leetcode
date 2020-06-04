@@ -13,6 +13,8 @@ I'm doing code challenging with [leetcode](https://leetcode.com/)|[lettcode-cn](
 - [x] [3 无重复字符的最长字串](algorithm/lengthoflongestsubstring)
 - [x] [7 整数反转](algorithm/reverseinteger)
 - [x] [9 回文数](algorithm/palindromenumber)
+- [x] [13 罗马数字转整数](algorithm/romantointeger)
+- [x] [14 最长公共前缀](algorithm/longestcommonprefix)
 
 
 
