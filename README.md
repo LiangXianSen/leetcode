@@ -17,6 +17,8 @@ I'm doing code challenging with [leetcode](https://leetcode.com/)|[lettcode-cn](
 - [x] [14 最长公共前缀](algorithm/longestcommonprefix)
 - [x] [20 有效的括号](algorithm/validparentheses)
 - [x] [21 合并两个有序链表](algorithm/mergetwosortedlists)
+- [x] [26 删除排序数组中重复项](algorithm/removedeplicatesfromsortedarray)
+- [x] [27 移除元素](algorithm/removeelement)
 
 
 
