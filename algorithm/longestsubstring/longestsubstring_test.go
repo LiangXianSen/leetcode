@@ -1,4 +1,4 @@
-package lengthoflongestsubstring
+package longestsubstring
 
 import (
 	"testing"

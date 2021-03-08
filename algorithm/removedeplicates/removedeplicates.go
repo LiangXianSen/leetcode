@@ -1,4 +1,4 @@
-package removedeplicatesfromsortedarray
+package removedeplicates
 
 func removeDuplicates(nums []int) int {
 	if len(nums) == 0 {

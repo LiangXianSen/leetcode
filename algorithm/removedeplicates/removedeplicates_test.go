@@ -1,4 +1,4 @@
-package removedeplicatesfromsortedarray
+package removedeplicates
 
 import (
 	"testing"

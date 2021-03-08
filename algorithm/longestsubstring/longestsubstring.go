@@ -1,4 +1,4 @@
-package lengthoflongestsubstring
+package longestsubstring
 
 func lengthOfLongestSubstring(s string) int {
 	sub := []rune(s)
